@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hashan Fernando</title>
+    <link>https://hashansl.github.io/</link>
+      <atom:link href="https://hashansl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hashan Fernando</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hashansl.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Hashan Fernando</title>
+      <link>https://hashansl.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Instance-Wise Classification in Correlated Feature Spaces</title>
+      <link>https://hashansl.github.io/publication/9531494/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hashansl.github.io/publication/9531494/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
